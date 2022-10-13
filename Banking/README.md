@@ -1,7 +1,7 @@
 # Forecasting the leave of a Beta-Bank client.
 
 ## Research description: 
-Identify the model that most accurately predicts customer abandonment.
+Identify the model that most accurately predicts customer leave.
 
 ## Research purpose: 
 Build machine learning models, validate the parameters, test the prediction with the f1 metric and find the best option, improve the result by balancing the initial data.
