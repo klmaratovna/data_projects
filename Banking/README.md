@@ -1,4 +1,4 @@
-#Forecasting the leave of a Beta-Bank client.
+# Forecasting the leave of a Beta-Bank client.
 
 ## Research description: 
 Identify the model that most accurately predicts customer abandonment.
