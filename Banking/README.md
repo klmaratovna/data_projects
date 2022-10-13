@@ -19,7 +19,9 @@ Balance classes with:
 Class weights,
 Upsample ,
 Downsample
-Test data against test set. Data: Features:
+Test data against test set. 
+## Data: 
+### Features:
 RowNumber - row index in the data
 CustomerId — unique customer identifier
 Surname - surname
@@ -32,6 +34,7 @@ Balance - account balance
 NumOfProducts - the number of bank products used by the client
 HasCrCard - the presence of a credit card
 IsActiveMember - client activity
-EstimatedSalary - estimated salary Target:
+EstimatedSalary - estimated salary 
+### Target:
 Exited — the fact that the client has left
 
