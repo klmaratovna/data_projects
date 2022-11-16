@@ -14,11 +14,11 @@ Apply bootstrap technique for normal distribution.
 
 ## Data:
 
-1. Target feature:
+Target feature:
 
-product - the volume of reserves in the well (thousand barrels).
+- product - the volume of reserves in the well (thousand barrels).
 
-2. Features:
+Features:
 
-id - unique identifier of the well;
-f0, f1, f2 - three signs of points (it doesn't matter what they mean, but the signs themselves are significant);
+- id - unique identifier of the well;
+- f0, f1, f2 - three signs of points (it doesn't matter what they mean, but the signs themselves are significant);
