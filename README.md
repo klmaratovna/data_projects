@@ -1,6 +1,6 @@
 # Data Science Projects
 
-| Projects        | Description          | Task  | Usage| 
+| Projects        | Description          | Task  | Usage | 
 | ------------- |:-------------:| -----:|
 | [Real Estate](https://github.com/maratovvna/data_projects/tree/main/Real%20Estate)      | Two types of data are available for each apartment for sale: entered by the user, automatical  cartographic data. | Given the data of the Realty service - an archive of ads for the sale of apartments in St. Petersburg and neighboring settlements for several years. We need to learn how to determine the market value of real estate and set the parameters. | Data preparation |
 | [Video Games](https://github.com/maratovvna/data_projects/tree/main/Video%20Games)      | Identification of the impact of video game characteristics on sales.     |   Conduct data analysis on the dependence of global sales on parameters such as release year, genre, release platform, reviews. Calculate the correlation between reviews and video game sales.| A/B Testing |
